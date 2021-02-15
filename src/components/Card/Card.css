@@ -1,0 +1,5 @@
+.Card {
+  background: var(--color-primary);
+  color: var(--color-white);
+  padding: 12px;
+}
