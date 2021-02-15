@@ -16,7 +16,7 @@ export default function App({ question, answer, radius }) {
         <Card
           radius="20"
           question="Do you like JS?"
-          answer="No, it's very hard"
+          answer="Not really, it's very hard"
         />
         <Card
           radius="20"
