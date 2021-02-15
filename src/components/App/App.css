@@ -1,3 +1,4 @@
 .App {
-  background: hotpink;
+  display: grid;
+  gap: 20px;
 }
