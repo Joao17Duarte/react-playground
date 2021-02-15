@@ -5,4 +5,4 @@ export default {
   component: AppHeader,
 }
 
-export const JS = () => <AppHeader title="Hi there React, from StoryBook" />
+export const Header = () => <AppHeader title="Hi there React, from StoryBook" />

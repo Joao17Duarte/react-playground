@@ -1,0 +1,11 @@
+.Card {
+  background: var(--color-white);
+  color: rgb(129, 22, 22);
+  padding: 20px;
+  line-height: 2.5rem;
+  box-shadow: 10px 3px 10px black;
+}
+
+.Card h2 {
+  font-size: 1.5rem;
+}
